@@ -1,1 +1,2 @@
+feature 04 : dev merge conflict test
 feature/COL-0003 first merge into dev
