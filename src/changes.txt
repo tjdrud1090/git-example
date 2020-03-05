@@ -1,0 +1,7 @@
+add A
+
+add B
+
+add C
+
+A+B+C
