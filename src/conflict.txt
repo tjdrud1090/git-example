@@ -9,3 +9,5 @@ feature 08 : conflict test
 
 
 feature 07 : conflict test
+
+feature 10 : conflict test1010
